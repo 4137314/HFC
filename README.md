@@ -29,3 +29,5 @@
     - Inserzione minima (basse perdite)
     - Isolamento massimo tra vie
     - Fase desiderata per beamforming
+   
+    ![Descrizione Immagine](immagini/CIRCUIT_SCHEMATICpng)
