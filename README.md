@@ -30,4 +30,4 @@
     - Isolamento massimo tra vie
     - Fase desiderata per beamforming
    
-    ![Descrizione Immagine](immagini/CIRCUIT_SCHEMATICpng)
+    ![Descrizione Immagine](immagini/CIRCUIT_SCHEMATIC.png)
