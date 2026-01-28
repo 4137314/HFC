@@ -31,5 +31,5 @@
     - Fase desiderata per beamforming
 
 ## DESIGN DEL CIRCUITO CON SCHEMATICA
-   
-   ![CIRCUITO DA IMPLEMENTARE SU QUCS](immagini/CIRCUIT_SCHEMATIC.png)
+![CIRCUITO DA IMPLEMENTARE SU QUCS](immagini/CIRCUIT_SCHEMATIC.png)
+*Figura 1: Schema elettrico del sistema HFC progettato su QUCS.*
