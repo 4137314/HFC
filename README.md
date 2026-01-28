@@ -30,6 +30,6 @@
     - Isolamento massimo tra vie
     - Fase desiderata per beamforming
 
-##DESIGN DEL CIRCUITO CON SCHEMATICA
+## DESIGN DEL CIRCUITO CON SCHEMATICA
    
    ![CIRCUITO DA IMPLEMENTARE SU QUCS](immagini/CIRCUIT_SCHEMATIC.png)
