@@ -20,8 +20,8 @@
    
   - ✅Analisi delle configurazioni dinamiche
 
-  - Simula più stati di commutazione dei diodi per vedere come cambia la distribuzione di potenza e fase verso le antenne.
-  - Valuta perdite e isolamento tra rami.
+    - Simula più stati di commutazione dei diodi per vedere come cambia la distribuzione di potenza e fase verso le antenne.
+    - Valuta perdite e isolamento tra rami.
      
   - ✅ Ottimizzazione
 
