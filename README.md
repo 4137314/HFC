@@ -37,4 +37,6 @@
 I file sorgente per la simulazione su QUCS sono disponibili qui:
 * [Schema del Progetto (.sch)](./file%20si%20simulazione/HFC_Project.sch)
 * [Dati di simulazione (.dat)](./file%20si%20simulazione/HFC_Project.dat)
-### Qui trovi il paper scritto da noi che discute tutti i fondamenti teorici sul funzionamento del circuito, come si arriva a un modello simulabile in QUCS e le performance dell'antenna riconfigurabile.
+---
+### 📄 Documentazione Finale
+Per un'analisi dettagliata dei risultati e della metodologia, consulta il [Report Tecnico (PDF)](./Written_Report_HFC).
