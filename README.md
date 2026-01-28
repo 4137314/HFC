@@ -39,4 +39,4 @@ I file sorgente per la simulazione su QUCS sono disponibili qui:
 * [Dati di simulazione (.dat)](./file%20si%20simulazione/HFC_Project.dat)
 ---
 ### 📄 Documentazione Finale
-Per un'analisi dettagliata dei risultati e della metodologia, consulta il [Report Tecnico (PDF)](./Written_Report_HFC).
+Per un'analisi dettagliata dei risultati e della metodologia, consulta il [Report Tecnico (PDF)](./Written_Report_HFC.pdf).
