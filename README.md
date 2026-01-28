@@ -32,4 +32,8 @@
 
 ## DESIGN DEL CIRCUITO CON SCHEMATICA
 ![CIRCUITO DA IMPLEMENTARE SU QUCS](immagini/CIRCUIT_SCHEMATIC.png)
-*Figura 1: Schema elettrico del sistema HFC progettato su QUCS.*
+*Figura 1: Schema elettrico delL'antenna progettato su QUCS.*
+### 📂 File di Simulazione
+I file sorgente per la simulazione su QUCS sono disponibili qui:
+* [Schema del Progetto (.sch)](./file%20si%20simulazione/HFC_Project.sch)
+* [Dati di simulazione (.dat)](./file%20si%20simulazione/HFC_Project.dat)
